@@ -2,12 +2,11 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Yagi91_Coder?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FD_africanknight&screen_name=D_africanknight)
 
-## I'm a Gamer, Father, Developer, and Teacher!!
+## I'm a Gamer and Developer!!
 
-- 🔭 I just launched my first course.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and watch football
 
 ### Connect with me:
