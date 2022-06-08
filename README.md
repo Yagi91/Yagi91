@@ -36,5 +36,5 @@
 
 [twitter]: https://twitter.com/D_africanKnight
 [instagram]: https://www.instagram.com/yagitwist
-[linkedin]: https://www.linkedin.com/in/yagi-timah-2b22a11aa/
+[linkedin]: https://www.linkedin.com/in/bryan-timah-8737761ba/
 [codepen]: https://codepen.io/yagi91
