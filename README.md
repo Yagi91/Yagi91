@@ -14,8 +14,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; TypeScript | JavaScript | React | Python |MERN | Google Cloud Platform
-- 🌐 &nbsp; Full-Stack | React | HTML | CSS | Redux | Bootstrap | Sass | Tailwind | D3.js
+- 💻 &nbsp; TypeScript | JavaScript | React | Python | MERN | Google Cloud Platform
+- 🌐 &nbsp; Full-Stack | React | HTML | CSS | Redux | Bootstrap | Sass | Tailwind | D3.js | Express
 - 🛢 &nbsp; MongoDB | PostgreSQL | Firebase | Postman
 - 🧪 &nbsp; Jest | React-testing library | Moocha-chai
 - 🔧 &nbsp; Visual Studio code  | Git
