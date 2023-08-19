@@ -6,7 +6,7 @@
 - 🔭 &nbsp; I’m currently volunteering with a tech organization, teaching Frontend Dev and learning DevOps
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Architecture, computer programming, and Mathematics.
-- 💼 &nbsp; Full-stack developer and Designer.
+- 💼 &nbsp; Full-stack developer and interest in ML.
 - 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence.
 - ✍️ &nbsp; Watching universe and trying out the latest design trends as hobbies/side hustles.
 - 😴 &nbsp; I believe, a perfect nap can be the ultimate solution for any stress.
@@ -17,7 +17,7 @@
 - 💻 &nbsp; TypeScript | JavaScript | React | Python | MERN | Google Cloud Platform
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | Redux | Bootstrap | Sass | Tailwind | D3.js | Express
 - 🛢 &nbsp; MongoDB | PostgreSQL | Firebase | Postman
-- 🧪 &nbsp; Jest | React-testing library | Moocha-chai
+- 🧪 &nbsp; Jest | React-testing library | Mocha-chai
 - 🔧 &nbsp; Visual Studio code  | Git
 - 🖥 &nbsp; Illustrator | Photoshop | Figma
 
