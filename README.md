@@ -10,7 +10,6 @@
 - 🌱 &nbsp; Enthusiast in full-Stack and Artificial Intelligence.
 - ✍️ &nbsp; Watching universe and trying out the latest design trends as hobbies/side hustles.
 - 😴 &nbsp; I believe, a perfect nap can be the ultimate solution for any stress.
-- 🥅 &nbsp; 2023 goals, Contribute to more Open source projects.
 
 <h3>🛠 Tech Stack</h3>
 
